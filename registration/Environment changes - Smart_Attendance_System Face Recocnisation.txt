@@ -1,0 +1,8 @@
+# Terminal Environment Changes
+
+## Extension: GitHub.copilot-chat
+
+Enables use of `copilot-debug` and `copilot` commands in the terminal
+
+- `COPILOT_DEBUG_NONCE=4563d9b766591422b1043c7cc8e72d02`
+- `PATH=${env:PATH};c:\Users\medil\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand;C:\Users\medil\AppData\Local\Programs\Microsoft VS Code\bin\copilot-shim`
